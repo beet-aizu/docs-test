@@ -1,3 +1,7 @@
+---
+title: Segment Tree
+documentation_of: ./tree/heavylightdecomposition.cpp
+---
 
 ## できること
 
